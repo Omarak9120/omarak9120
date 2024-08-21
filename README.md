@@ -30,7 +30,9 @@
 <div align ="center">
   <h2>Connect With Me</h2>
   
-    <p>--> <a href="mailto:omarak9120@gmail.com">omarak9120@gmail.com</a></p>
+
+  <h2>omarak9120@gmail.com</h2>
+  
   <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on <a href ="https://www.linkedin.com/in/omar-abdelkader-594290278/" target="_blank">LinkedIn</a> . Let's team up and build a brighter digital future!</p>
 </div>
 
