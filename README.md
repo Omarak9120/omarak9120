@@ -35,8 +35,12 @@
   
   <p>Coding, tech talk, or just a friendly conversation – I'm your guy! Find me on <a href ="https://www.linkedin.com/in/omar-abdelkader-594290278/" target="_blank">LinkedIn</a> . Let's team up and build a brighter digital future!</p>
 </div>
+<div align ="center">
+  
+[![oabdelka's 42 stats](https://badge.nimon.fr/api/v2/cm0wd8d8b1421201ltn4kwd20x/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42)
+</div>
 
-<!--
+  <!--
 **Omarak9120/omarak9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
