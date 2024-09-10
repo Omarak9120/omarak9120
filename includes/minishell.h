@@ -29,6 +29,20 @@
 *								STRUCTS										  *
 ******************************************************************************/
 
+typedef enum e_token_type
+{
+    WORD = 1,
+    PIPE,
+    REDIRECT,
+    // Add more token types as needed
+    INPUT,
+    TRUNC,
+    HEREDOC,
+    APPEND,
+    END
+} t_token_type;
+
+
 // Token structure for storing parsed tokens (could be words, symbols, etc.)
 typedef struct s_token
 {
