@@ -40,6 +40,8 @@
 
 https://badge.nimon.fr/api/v2/cm0wd8d8b1421201ltn4kwd20x/stats?cursusId=21&coalitionId=446
 
+<a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm0wd8d8b1421201ltn4kwd20x/stats?cursusId=21&coalitionId=446" alt="oabdelka's 42 stats" /></a>
+
 
 </div>
 
