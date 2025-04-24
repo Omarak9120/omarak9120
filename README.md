@@ -11,6 +11,9 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
+  <div align="left">
+    <img width="7%" src="https://42beirut.com/wp-content/uploads/2023/11/download.png"/>
+</div>
     <h4>I'm a Driven Student at 42 Beirut</h4>
     <p>Software Developer with a Master's degree in computer science from the Lebanese International University (LIU). Currently enhancing my skills at 42 Beirut, I engage in hands-on projects that push me to think critically and solve complex problems. My experience managing a guesthouse has honed my skills in business operations and customer service, complementing my technical expertise. I am seeking web development roles where I can apply my diverse experiences to build innovative solutions.</p>
 </div>
